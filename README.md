@@ -28,5 +28,10 @@ HTML5
 CSS3
 
 
-📸 Screenshots
+▶️ Live Demo
+You can run this project locally:
+
+https://dipakpatel9726.github.io/card-landing-page/
+
+
 
